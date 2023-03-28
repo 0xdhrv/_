@@ -5,11 +5,11 @@
 ## nix Installation
 
 ```bash
-$ sh scripts/install-nix.sh
+sh scripts/install-nix.sh
 ```
 
 ## nix enable flakes
 
 ```bash
-$ sh scripts/enable-flakes.sh
+sh scripts/enable-flakes.sh
 ```
