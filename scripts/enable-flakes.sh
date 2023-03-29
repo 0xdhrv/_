@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 nixConfigDir="$HOME/.config/nix"
-nixConfig="$dir/nix.conf"
+nixConfig="$nixConfigDir/nix.conf"
 
 mkdir -p "$nixConfigDir"
 cat << EOF > "$nixConfig"
